@@ -14,40 +14,40 @@ The program was focused on AI, Cloud Computing, and Project Development, providi
 ## 1. Core Training
 
  ## AI & Machine Learning Fundamentals:
-----> Understanding AI concepts, supervised & unsupervised learning
-----> Data preprocessing, feature engineering, and model evaluation
+ 1.Understanding AI concepts, supervised & unsupervised learning
+ 2.Data preprocessing, feature engineering, and model evaluation
 
 ## Cloud Computing:
-----> IBM Cloud Lite service navigation and deployment
-----> Platform-as-a-Service (PaaS) concepts and cloud-based AI model hosting
+1.IBM Cloud Lite service navigation and deployment
+2.Platform-as-a-Service (PaaS) concepts and cloud-based AI model hosting
 
 ## Agentic AI Development:
-----> Building intelligent agents using IBM Watsonx Assistant & IBM Granite Models
-----> Integrating APIs and databases for knowledge retrieval
+1.Building intelligent agents using IBM Watsonx Assistant & IBM Granite Models
+2.Integrating APIs and databases for knowledge retrieval
 
 ## 2. Hands-On Labs
-----> Created AI chatbots using Watsonx Assistant
-----> Practiced cloud deployments on IBM Cloud Lite
-----> Worked on real-world datasets for AI model building
+1.Created AI chatbots using Watsonx Assistant
+2.Practiced cloud deployments on IBM Cloud Lite
+3.Worked on real-world datasets for AI model building
 
 ## Final Project – AI Health Symptom Checker
 
 ## Objective: To create a virtual assistant capable of analyzing user-reported symptoms and providing preventive advice
 
 ## Features:
----> RAG-based search to retrieve medically verified information
----> Symptom-to-probable cause mapping
----> Preventive tips and general healthcare guidance
+1.RAG-based search to retrieve medically verified information
+2.Symptom-to-probable cause mapping
+3.Preventive tips and general healthcare guidance
 
 ## Tech Stack:
-IBM Watsonx Assistant
-IBM Granite Model
-Python
-REST API, HTML/CSS
+1.IBM Watsonx Assistant
+2.IBM Granite Model
+3.Python
+4.REST API, HTML/CSS
 
 ## Skills Gained
--> Artificial Intelligence (AI) Development
--> Retrieval-Augmented Generation (RAG)
--> Cloud Deployment (IBM Cloud Lite)
--> API Integration
--> Problem-Solving & Project Planning
+1.Artificial Intelligence (AI) Development
+2. Retrieval-Augmented Generation (RAG)
+3. Cloud Deployment (IBM Cloud Lite)
+4. API Integration
+5. Problem-Solving & Project Planning
